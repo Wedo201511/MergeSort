@@ -1,0 +1,14 @@
+C:\Users\ziyezhang\Documents\Visual Studio 2015\Projects\UnitTestProject1\ClassLibrary1\bin\Debug\Default.srprofile
+C:\Users\ziyezhang\Documents\Visual Studio 2015\Projects\UnitTestProject1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\ziyezhang\Documents\Visual Studio 2015\Projects\UnitTestProject1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ziyezhang\Documents\Visual Studio 2015\Projects\UnitTestProject1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ziyezhang\Documents\Visual Studio 2015\Projects\UnitTestProject1\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ziyezhang\Documents\Visual Studio 2015\Projects\UnitTestProject1\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\ziyezhang\Documents\Visual Studio 2015\Projects\UnitTestProject1\ClassLibrary1\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\ziyezhang\Documents\Visual Studio 2015\Projects\UnitTestProject1\ClassLibrary1\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\ziyezhang\Documents\Visual Studio 2015\Projects\UnitTestProject1\ClassLibrary1\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\ziyezhang\Documents\Visual Studio 2015\Projects\UnitTestProject1\ClassLibrary1\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\ziyezhang\Documents\Visual Studio 2015\Projects\UnitTestProject1\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ziyezhang\Documents\Visual Studio 2015\Projects\UnitTestProject1\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\ziyezhang\Documents\Visual Studio 2015\Projects\UnitTestProject1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ziyezhang\Documents\Visual Studio 2015\Projects\UnitTestProject1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
